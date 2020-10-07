@@ -11,3 +11,6 @@ export default app;
 
 //la aplicacion apareceraen el body del archivo index.html. si queremos que salga
 //en un sitio concreto: target: document.querySelector("...")...
+
+//props son parametros que me pueden pasar y luego 
+//en mi app puedo hacer un export para usarlo

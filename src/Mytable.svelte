@@ -1,6 +1,4 @@
-<script>
-	export let name;
-</script>
+
 
 <main>
 	<table>
