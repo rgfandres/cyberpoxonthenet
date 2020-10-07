@@ -1,0 +1,28 @@
+{
+  "name": "packagedemo",
+  "version": "1.0.0",
+  "description": "prueba de paquete npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgfandres/cyberpoxonthenet.git"
+  },
+  "author": "poxo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgfandres/cyberpoxonthenet/issues"
+  },
+  "homepage": "https://github.com/rgfandres/cyberpoxonthenet#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cool-ascii-faces": "^1.3.4",
+    "eleventy-plugin-embed-spotify": "^1.1.6",
+    "express": "^4.17.1",
+    "ndb": "^1.1.5",
+    "nedb": "^1.8.0"
+  }
+}
