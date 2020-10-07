@@ -1,6 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const path = require("path");
+//const path = require("path");
 //const spotifyAPI = require("./spotifyAPI");
 //const contactApi = require(path.join(__dirname,"contactApi"));
 const app = express();//modulo de api externo
